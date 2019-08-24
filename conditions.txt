@@ -1,0 +1,10 @@
+Numbers
+Strings
+Booleans
+---
+Lists
+Dictionaries
+
+numbers = [1, 2, 3]
+point.get_distance
+
